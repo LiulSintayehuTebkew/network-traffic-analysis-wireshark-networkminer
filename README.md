@@ -33,5 +33,4 @@ IOC extraction, threat intelligence enrichment.
 
 All PCAPs were obtained from malware-traffic-analysis.net, 
 a public educational resource. Analysis was performed in 
-an isolated virtual machine with no internet connectivity 
-during PCAP examination. No malicious files were executed.
+an isolated virtual machine.
